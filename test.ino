@@ -23,6 +23,7 @@ int ledPin = 2;
 void setup() {
 	pinMode(ledPin, OUTPUT);
 	Serial.begin(115200);
+	//Christophe
 }
 
 
