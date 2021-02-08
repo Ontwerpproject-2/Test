@@ -24,6 +24,7 @@ void setup() {
 	pinMode(ledPin, OUTPUT);
 	Serial.begin(115200);
 	//Christophe
+	//2de test
 }
 
 
